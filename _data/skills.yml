@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Ingles
+- skill: Inglês
+  description: Nível Básico a Intermediário
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Gestão de Contas
+  description: Atenção aos detalhes fazem a diferença para o cliente, seja negócio ou Tech.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Governança de Ti
+  description: Incorporar novos processos ou melhorar existentes, fundamentam uma boa gestão.
+
+  # Digital content development and creation
+- skill: Python
+  description: Fascinado pela forma que a linguagem absorve demandas simples a super complexas.
