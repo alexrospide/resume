@@ -1,19 +1,42 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Analista de negócios
+- company: Sinqia
+  position: Analista de negócios
+  duration: Outubro, 2020 &mdash; Outubro, 2023
+  summary: Atuação junto ao time de sustentação para realizar suporte a empresas na área de previdência privada, as atividades estão direcionadas a Gestão de Contas destes clientes bem como a organização e direcionamento de demandas para os times de desenvolvimento. Responsável por reuniões semanais de governança com clientes, abordando pontos como pesquisa de satisfação, chamados, melhorias, situações críticas e posicionamento estratégico da entidade	<ul class="resume-item-list"><li>FileMaker | MySql | BI | Governança de TI | Sustentação | NPS</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Suporte
+- company: Nexfar
+  position: Suporte
+  duration:  Julho, 2020 &mdash; Outubro, 2020
+  summary: Realizar atendimento a sistema de comércio B2B utilizado por distribuidoras do ramo farmacêutico, atuando com foco em suas necessidades e sugestões, de forma a esclarecer e estruturar as demandas de maneira que o cliente seja atendido da melhor forma e a empresa também possa atendê-lo. Fazem parte das atividades, analisar as demandas via banco de dados Mongodb, organizar e sugerir melhorias no processo de atendimento, bem como contato direto com a equipe de desenvolvimento para alinhamento das demandas.	<ul class="resume-item-list"><li>NodeJS | Mongodb | Suporte</li></ul>
+
+
+# Gestão de contas
+- company: MyTapp
+  position: Gestão de contas
+  duration:   Janeiro, 2020  &mdash; Julho, 2020
+  summary: Auxiliar com a validação de um produto mvp, validação dos sensores e fluxo de operação, construção de materiais para apoio aos usuários, implementação de ferramentas de análise para os clientes com Power BI. Desenvolver processo de suporte e atendimento. Avaliar a satisfação do cliente com o sistema.	<ul class="resume-item-list"><li>NodeJS | Postgress | PowerBI</li></ul>
+  position: Suporte
+  duration:   Setembro, 2018  &mdash; Julho, 2020
+  summary: Auxiliar com a validação de um produto mvp, validação dos sensores e fluxo de operação, construção de materiais para apoio aos usuários, implementação de ferramentas de análise para os clientes com Power BI. Desenvolver processo de suporte e atendimento. Avaliar a satisfação do cliente com o sistema.	<ul class="resume-item-list"><li>NodeJS | Postgress | PowerBI</li></ul>
+
+# Suporte
+- company: Intelbras
+  position: Trainee
+  duration:  Janeiro, 2014 &mdash; Dezembro, 2014
+  summary: Responsável por desenvolver produtos em novas tecnologias, testar e implementar hardwares e/ou softwares de equipamentos eletrônicos para os projetos com parceiros externos (OEM). Pesquisar e identificar oportunidades de redução de custos,modernização e melhoria de produtos através de análise técnica, econômica e funcional dos produtos. Solucionar problemas, dar suporte técnico, desenvolver, elaborar documentação, rotinas de testes e treinamentos para os produtos. Atuar na Equipe Auto gerenciável. 	<ul class="resume-item-list"><li>Dev Overseas | Produto | Documentação</li></ul>
+  position: Analista de desenvolvimento de produtos
+  duration:  Janeiro, 2015 &mdash; Outubro, 2015
+  summary: Auxiliar no desenvolvimento de Softwares para monitoramento de imagens, na validação e homologação de software para base PC e mobile. Apoiar o desenvolvimento de pequenas aplicações para atender necessidades específicas. 	<ul class="resume-item-list"><li>Produto | Suporte Interno | App</li></ul>
+
+
+# Suporte
+- company: Dominik MetalCenter BR101
+  position: Analista de Negócios Jr
+  duration:  Março, 2012 &mdash; Outubro, 2012
+  summary: Administrar as demandas internas de atendimento (Service Desk) solicitadas à área de sistemas analisando, definindo, atendendo e/ou alocando recursos para resoluções, mapear processos e indicadores organizacionais e analisar as necessidades dos departamentos supervisionar e promover a integração e o melhor aproveitamento dos recursos tecnológicos e estruturais. 	<ul class="resume-item-list"><li>Suporte Sistema ERP Interno | Produto</li></ul>
+  position: Técnico em Informática
+  duration:  Abril, 2011 &mdash; Março, 2012
+  summary: Fornecer suporte técnico no uso hardware e sistemas, auxiliar na manutenção, atualização e organização das informações e documentos da área de tecnologia da informação e comunicação.
