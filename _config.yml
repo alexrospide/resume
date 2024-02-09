@@ -23,7 +23,7 @@ resume_contact_address:         "Florianópolis / SC"
 resume_header_contact_info:     "Florianópolis / SC •  alexrospide@gmail.com"
 display_header_contact_info:    "false"
 
-#resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>combinando minha experiência em Governança de Ti, Processos, Negócios agora com um foco renovado em desenvolvimento de soluções de dados escaláveis e eficientes para impulsionar insights e tomada de decisões estou atualmente em transição para a emocionante área da Engenharia de Dados</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
